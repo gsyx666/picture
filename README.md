@@ -8,7 +8,7 @@ cdn加速链接:
     
 链接:
 
-   https://raw.githubusercontent.com/gsyx666/picture/master/picture/Screenshot_2020-04-02-11-08-05-403_com.tencent.tmgp.sgame.jpg
+    https://raw.githubusercontent.com/gsyx666/picture/master/picture/Screenshot_2020-04-02-11-08-05-403_com.tencent.tmgp.sgame.jpg
     
 # 战歌
     
