@@ -15,23 +15,3 @@ cdn加速链接:
     
 # 战歌
     
-<audio src='/mp3/逃跑计划 - 再飞行.mp3' controls><a href='/mp3/逃跑计划 - 再飞行.mp3'>/mp3/逃跑计划 - 再飞行.mp3</a></audio>
-
-<audio src='逃跑计划%20-%20再飞行.mp3' controls><a href='逃跑计划%20-%20再飞行.mp3'>/mp3/逃跑计划 - 再飞行.mp3</a></audio>
-
-
-<audio src='逃跑计划%20-%20再飞行.mp3' controls><a href='逃跑计划%20-%20再飞行.mp3'>/mp3/逃跑计划 - 再飞行.mp3</a></audio>
-
-
-
-
-<audio src='逃跑计划%20-%20再飞行.mp3' controls><a href='逃跑计划%20-%20再飞行.mp3'>/mp3/逃跑计划-再飞行.mp3</a></audio>
-
-
-
-
-
-
-
-
-
