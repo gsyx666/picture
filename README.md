@@ -14,3 +14,4 @@ cdn加速链接:
     
 <audio src='逃跑计划%20-%20再飞行.mp3' controls><a href='逃跑计划%20-%20再飞行.mp3'>再飞行</a></audio>
 
+[](picture/gg.gif)
